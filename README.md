@@ -1,2 +1,2 @@
 # arduino_tutorial
-That contains the codes used in my Arduino tutorials on Youtube
+That contains the source code used in my Arduino tutorials on Youtube
